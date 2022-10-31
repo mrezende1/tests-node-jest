@@ -7,7 +7,7 @@ CREATE TABLE autores(
 );
 
 INSERT INTO autores (nome, nacionalidade) 
-VALUES  ("JRR Tolkien", "sul-africano"),
+VALUES  ("JRR Tolkien", "sul-africano"), 
         ("Ursula LeGuin", "estadunidense"),
         ("Machado de Assis", "brasileira");
 
